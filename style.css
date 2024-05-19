@@ -8,11 +8,7 @@
 
 
 
-.header {
-    background-image: url(/img/Rectangle\ 104header.png);
-    width: 1440px;
-    height: 150px;
-}
+
 .container {
 }
 .flex-1 {
@@ -49,9 +45,8 @@
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
-    @font-face {
-        font-family: "Headland One" , serif ;
-        src: url(https://fonts.googleapis.com/css2?family=Headland+One&display=swap)  ; 
+    padding-top: 39px;
+    padding-bottom: 39px;
     }  
     
     
@@ -67,6 +62,8 @@
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
+    padding-top: 180px;
+    padding-bottom: 180px;
     
 
 }
@@ -89,13 +86,17 @@
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
+    padding-top: 355px;
+    padding-bottom: 355px;
 }
 
 .header{
-    background-image: url(/img/Rectangle\ 20.png);
+    background-image: url(img/Rectangle\ 104header.png);
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
+    padding-top: 39px;
+    padding-bottom: 39px;
 }
     
    
