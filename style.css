@@ -12,6 +12,9 @@
 .container {
 }
 .flex-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .logo {
 }
@@ -21,6 +24,7 @@
 }
 
 .main-left {
+    width: 35%;
 }
 .text {
 }
@@ -32,8 +36,14 @@
     
 }
 .main-right {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
 }
 .flex-3 {
+    width: 230%;
+    display: flex;
+    align-content: ;
 }
 .flex-4 {
 
@@ -51,7 +61,7 @@
     
     
  
-}
+
 
 .button-treiler{
  
@@ -99,4 +109,15 @@
     padding-bottom: 39px;
 }
     
+
+.flex-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+p{
+    
+}
    
