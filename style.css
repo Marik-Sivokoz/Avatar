@@ -55,7 +55,7 @@
 
 }
 .card {
-    background-image: url(/img/Rectangle\ 20.png);
+    background-image: url(img/Rectangle\ 20.png);
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
@@ -72,7 +72,7 @@
 }
 
 .invite{
-    background-image: url(/img/Group\ 48\ 1\(1\).png);
+    background-image: url(img/Group\ 48\ 1\(1\).png);
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
@@ -83,7 +83,7 @@
 }
 
 .history{
-    background-image: url(/img/Rectangle\ 86.png);
+    background-image: url(img/Rectangle\ 86.png);
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
@@ -96,7 +96,7 @@
 }
 
 .treiler{
-    background-image: url(/img/Rectangle\ 10.png);
+    background-image: url(img/Rectangle\ 10.png);
     background-size: cover ;
     background-repeat: no-repeat ;
     background-position: center center;
